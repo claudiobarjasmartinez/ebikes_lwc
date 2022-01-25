@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Bikes Lightning Web Components Sample Application
 
 [![CI Workflow](https://github.com/trailheadapps/ebikes-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/ebikes-lwc/actions?query=workflow%3ACI) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)
@@ -208,3 +209,6 @@ npm run prettier
 ## Code Tours
 
 Code Tours are guided walkthroughs that will help you understand the app code better. To be able to run them, install the [CodeTour VSCode extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+=======
+# ebikes_lwc
+>>>>>>> d6b92d5bb2257cd9a46a3ff9d4c7341e47b85961
